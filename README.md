@@ -1,4 +1,5 @@
 PowerPoint Gesture Control
+
 A Python-based gesture control system for PowerPoint presentations using hand gestures and webcam input. This application allows you to control your PowerPoint presentations using natural hand gestures, making your presentations more interactive and engaging.
 
 Features
